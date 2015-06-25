@@ -1,0 +1,16 @@
+{
+  "name": "node-udp-communication",
+  "version": "0.0.1",
+  "description": "UDP client/server communication example in node.js",
+  "main": "server.js",
+  "dependencies": {
+    "underscore": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "Emilien Kenler <hello@emilienkenler.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
